@@ -1,3 +1,8 @@
+This application is a front-end project created using html,css, react library and material ui for desingns.It's a design of an online pizza store displaying multiple pizzas of various kinds, along with their respective prices.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
